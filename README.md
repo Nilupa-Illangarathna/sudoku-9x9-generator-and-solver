@@ -17,6 +17,8 @@ This project consists of a Sudoku Generator written in C++ that creates Sudoku p
 
 The Sudoku Generator uses a backtracking algorithm to fill the Sudoku grid. It first fills the diagonal blocks and then completes the rest of the grid while ensuring the generated puzzle has a unique solution. You can specify the number of elements to be removed from each row, creating puzzles with varying difficulty levels.
 
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
 ### Usage
 
 1. **Compile the Sudoku Generator:**
